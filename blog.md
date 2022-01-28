@@ -13,5 +13,5 @@ I am eager to begin working with javscript more. A friend of mine uses javascrip
 
 **What is something about you that can only be learned by reading this blog?**
 
-I love coffee, sports, dogs, trucks, videogames, and hopefully coding soon!
+I love coffee, sports, dogs, trucks, videogames, and hopefully coding soon.
 
