@@ -1,6 +1,5 @@
 # ZBshaw93.github.io
 
-Hi, my name is Zach and this is my personal blog. I will be posting weekly as I go through the Awesome.inc coding bootcamp.
 ## A couple questions from the bootcamp so far...
 
 **Was your first week what you expected? Why? Why not?**
@@ -13,5 +12,7 @@ I am eager to begin working with javscript more. A friend of mine uses javascrip
 
 **What is something about you that can only be learned by reading this blog?**
 
-I love coffee, sports, dogs, trucks, videogames, and hopefully coding soon.
+I love coffee, sports, dogs, trucks, videogames, and hopefully coding soon!
+
+![img](/img/coffee.jpg)
 
