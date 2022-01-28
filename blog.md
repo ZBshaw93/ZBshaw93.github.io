@@ -15,4 +15,3 @@ I am eager to begin working with javscript more. A friend of mine uses javascrip
 
 I love coffee, sports, dogs, trucks, videogames, and hopefully coding soon!
 
-this is on dev
